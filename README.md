@@ -1,6 +1,6 @@
 <h1>ExpNo 6 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name: Ananda Rakshan K V</h3>
-<h3>Register Number: 212223230014</h3>
+<h3>Name: Nemaleshwar H</h3>
+<h3>Register Number: 212223230142</h3>
 <H3>Aim:</H3>
 <p>
     Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game
